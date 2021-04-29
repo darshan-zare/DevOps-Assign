@@ -6,10 +6,15 @@ Exercise 1
 A file named "file_diff.txt" contains the content of the command 'git diff --name-status' , in general the name of the files that have changed in a commit or pull request (add/modify/delete/rename).
 The content of the file file_diff.txt is as follows:
     M     src/objects/Event.object
+
     A     src/objects/Trading_Event__c.object
+
     R     src/objects/ActiveScratchOrg.object
+
     M     src/profiles/Admin.profile
+
     D     src/reports/CACI_Imports/All_Closed.report
+
 The first column denotes the status of their respective files in second column.
 The files (e.g. Event.object) in column second literally exists in current directory path i.e. "src/objects" etc.
 Write a program or code snippet (any language you prefer) which should read the above "file_diff.txt" line by line and do following:
