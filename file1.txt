@@ -3,4 +3,8 @@ added second line
 added third line
 
 Added another line
+<<<<<<< HEAD
 added another line
+=======
+Added
+>>>>>>> 997dc900c2ff87e926d6f1090d85e9bfb8c71f51
