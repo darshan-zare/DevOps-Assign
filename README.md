@@ -37,8 +37,6 @@ This is a real world example of something we actually have in one of our build p
 
 
 
- 
-
 Exercise 2
 
 Please write a program in any language of your choice, based on the requirement below.
@@ -54,4 +52,5 @@ Firstly, the script must take 6 consecutive numbers from command line arguments 
 - Print sorted (highest to lowest) array/list numbers.
 
 - Print sorted (lowest to highest) array/list numbers
+
 
