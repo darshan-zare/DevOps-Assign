@@ -2,3 +2,5 @@ added first line
 added second line
 bugfixed
 added line
+added line by bugfix
+
